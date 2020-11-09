@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Good Morning!\n");
+	printf("‚¨‚Í‚æ‚¤\n");
 
 	return 0;
 }
